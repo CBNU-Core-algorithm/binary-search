@@ -23,7 +23,7 @@ def make_sum_list(pizza_list):
 
     return sum_list
 
-sys.stdin = open('a.txt', 'rt') # test입력용 코드
+# sys.stdin = open('a.txt', 'rt') # test입력용 코드
 
 # 값 입력 받기
 target = int(sys.stdin.readline())
