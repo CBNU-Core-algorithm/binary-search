@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open('a.txt', 'rt') # test입력용 코드
+# sys.stdin = open('a.txt', 'rt') # test입력용 코드
 input = sys.stdin.readline
 
 # 입력
